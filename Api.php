@@ -1,8 +1,8 @@
 <?php
 class Api
 {
-    const CLIENT_ID = 'CLIENT_ID';
-    const CLIENT_SECRET = 'CLIENT_SECRET';
+    const CLIENT_ID = 'SAAS69D13WO';
+    const CLIENT_SECRET = 'ee5eb9044fbc46f0bd6900c93f72f0fa';
 
     /**
     *开通示例
